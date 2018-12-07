@@ -12,11 +12,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>webapp</groupId>
-			<artifactId>firstArch-web</artifactId>
-			<type>war</type>
-		</dependency>
-		<dependency>
-			<groupId>webapp</groupId>
 			<artifactId>firstArch-ejb</artifactId>
 			<type>ejb</type>
 		</dependency>
@@ -53,5 +48,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<groupId>webapp</groupId>
 </project>
